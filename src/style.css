@@ -1,6 +1,12 @@
 
+  body {
+        background-color: black;
+        color: green;
+        font-family: monospace;
+  }
   .red-text {
     color: red;
+    padding: 1.5em;
   }
 
   h2 {
