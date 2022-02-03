@@ -1,18 +1,23 @@
-h2{
-font-family: lobster, monospace;
-}
-p{
-font-size: 16px;
-font-family: monospace;
-}
-thick-green-border {
-border-color: green;
-border-width: 10px;
-border-style: solid;
-}
-    .red-text{
+
+  .red-text {
     color: red;
-    }  
-    .smaller-image{
+  }
+
+  h2 {
+    font-family: Lobster, monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+  }
+
+  .smaller-image {
     width: 100px;
-    }
+  }
