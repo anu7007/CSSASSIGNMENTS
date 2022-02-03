@@ -44,7 +44,18 @@
   h2 {
     font-family: Lobster, monospace;
   }
-
+  .red-text {
+    color:rgb(255, 0,0)
+  }
+  .orchid-text {
+    color: rgb(218,82,45);
+  }
+  .sienna-text {
+    color: rgb(218, 122, 214);
+  }
+  .blue-text {
+    color: rgb(0,0,255);
+  }
   p {
     font-size: 16px;
     font-family: monospace;
