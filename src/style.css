@@ -8,6 +8,9 @@
     color: red;
     padding: 1.5em;
   }
+  .pink-text{
+    color: pink;
+  }
 
   h2 {
     font-family: Lobster, monospace;
