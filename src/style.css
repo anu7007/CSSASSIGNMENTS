@@ -27,3 +27,15 @@
   #cat-photo-form{
     background-color: green;
  }
+ .box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+  }
+    .blue-box {
+        background-color: blue;
+        color: #fff;
+        padding: 20px;
+ }
+
