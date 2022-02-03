@@ -6,13 +6,25 @@
   }
   .red-text {
     color: red;
-    padding: 1.5em;
+    /* padding: 1.5em; */
   }
   .pink-text{
     color: pink !important;
   }
   .blue-text{
     color: blue;
+  }
+  .red-text {
+    color: #FF0000;
+  }
+  .green-text {
+    color: #00FF00;
+  }
+  .dodger-blue-text {
+    color: #1E90FF;
+  }
+  .orange-text {
+    color: #FFA500;
   }
 
   h2 {
