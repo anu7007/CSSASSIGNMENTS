@@ -9,7 +9,7 @@
     padding: 1.5em;
   }
   .pink-text{
-    color: pink;
+    color: pink !important;
   }
   .blue-text{
     color: blue;
